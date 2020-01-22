@@ -1,0 +1,8 @@
+prefix=/home/prajwal-thakur/ALL_THINGS_RELATED_TO_ROS/PX4/Firmware_clone_sitl/launch/ros_iris/ros_sitl_gazebo/install
+
+Name: mavlink_sitl_gazebo
+Description: Description of mavlink_sitl_gazebo
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/prajwal-thakur/ALL_THINGS_RELATED_TO_ROS/PX4/Firmware_clone_sitl/launch/ros_iris/ros_sitl_gazebo/install/lib 
+Requires: 

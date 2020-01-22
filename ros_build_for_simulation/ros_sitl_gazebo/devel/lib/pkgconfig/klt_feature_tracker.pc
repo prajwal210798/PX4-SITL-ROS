@@ -1,0 +1,8 @@
+prefix=/home/prajwal-thakur/ALL_THINGS_RELATED_TO_ROS/PX4/Firmware_clone_sitl/launch/ros_iris/ros_sitl_gazebo/devel
+
+Name: klt_feature_tracker
+Description: Description of klt_feature_tracker
+Version: 0.0.0
+Cflags: -I/home/prajwal-thakur/ALL_THINGS_RELATED_TO_ROS/PX4/Firmware_clone_sitl/launch/ros_iris/ros_sitl_gazebo/devel/include -I/home/prajwal-thakur/ALL_THINGS_RELATED_TO_ROS/PX4/Firmware_clone_sitl/launch/ros_iris/ros_sitl_gazebo/src/sitl_gazebo/external/OpticalFlow/external/klt_feature_tracker/include
+Libs: -L/home/prajwal-thakur/ALL_THINGS_RELATED_TO_ROS/PX4/Firmware_clone_sitl/launch/ros_iris/ros_sitl_gazebo/devel/lib -lklt_feature_tracker
+Requires: 

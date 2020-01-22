@@ -1,0 +1,8 @@
+prefix=/home/prajwal-thakur/ALL_THINGS_RELATED_TO_ROS/PX4/Firmware_clone_sitl/launch/ros_iris/ros_sitl_gazebo/install
+
+Name: klt_feature_tracker
+Description: Description of klt_feature_tracker
+Version: 0.0.0
+Cflags: -I/home/prajwal-thakur/ALL_THINGS_RELATED_TO_ROS/PX4/Firmware_clone_sitl/launch/ros_iris/ros_sitl_gazebo/install/include
+Libs: -L/home/prajwal-thakur/ALL_THINGS_RELATED_TO_ROS/PX4/Firmware_clone_sitl/launch/ros_iris/ros_sitl_gazebo/install/lib -lklt_feature_tracker
+Requires: 
